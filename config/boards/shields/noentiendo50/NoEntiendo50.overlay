@@ -1,4 +1,4 @@
-#include <dt/bindings/zmk/matrix_transform.h>
+#include <dt-bindings/zmk/matrix_transform.h>
 
 /{
 	chosen{
@@ -42,7 +42,6 @@
 			RC(4,0) RC(4,1) RC(4,2) RC(4,3) RC(4,4) RC(4,5)	RC(4,6)	RC(4,7)
 			RC(5,0) RC(5,1) RC(5,2) RC(5,3) RC(5,4) RC(5,5) 
 			RC(6,0) RC(6,1) RC(6,2) RC(6,3) 
-			
 		>;
 	};
 };	
