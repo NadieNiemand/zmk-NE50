@@ -1,6 +1,6 @@
 if SHIELD_NOENTIENDO50
 
 config ZMK_KEYBOARD_NAME
-	default "NoEntiendo50"
+	default "Air40"
 	
 endif
